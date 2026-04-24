@@ -2,7 +2,7 @@
 
 Code for the manuscript "Application of novel encounter and predation models to the natural behavior of slimy sculpin _Cottus cognatus_"
 
-'ALL_movements' is used to process movement data and generate Figs. 1 - 3. 
+'ALL_movements' is used to process movement data and generate Figs. 2 - 3. 
 
 'SculPressure' is used for the encounter rate model plots in Fig. 4.
 
